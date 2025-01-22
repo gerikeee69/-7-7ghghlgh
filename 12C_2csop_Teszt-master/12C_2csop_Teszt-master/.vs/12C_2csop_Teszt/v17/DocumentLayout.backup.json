@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D22CD96F-E970-4B36-8978-B1D876883912}|KorHenger_UnitTest\\KorHenger_UnitTest.csproj|c:\\users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12c_2csop_teszt-master\\12c_2csop_teszt-master\\korhenger_unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22CD96F-E970-4B36-8978-B1D876883912}|KorHenger_UnitTest\\KorHenger_UnitTest.csproj|solutionrelative:korhenger_unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06AC0B2E-2A40-4865-A921-C468DB50CCC2}|KorHenger\\KorHenger.csproj|C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\korhenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06AC0B2E-2A40-4865-A921-C468DB50CCC2}|KorHenger\\KorHenger.csproj|solutionrelative:korhenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06AC0B2E-2A40-4865-A921-C468DB50CCC2}|KorHenger\\KorHenger.csproj|C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\korhenger\\kor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06AC0B2E-2A40-4865-A921-C468DB50CCC2}|KorHenger\\KorHenger.csproj|solutionrelative:korhenger\\kor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger_UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "KorHenger_UnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger_UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "KorHenger_UnitTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:47:31.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kor.cs",
+              "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger\\Kor.cs",
+              "RelativeDocumentMoniker": "KorHenger\\Kor.cs",
+              "ToolTip": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger\\Kor.cs",
+              "RelativeToolTip": "KorHenger\\Kor.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:27:40.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger\\Program.cs",
+              "RelativeDocumentMoniker": "KorHenger\\Program.cs",
+              "ToolTip": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger\\Program.cs",
+              "RelativeToolTip": "KorHenger\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:27:37.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

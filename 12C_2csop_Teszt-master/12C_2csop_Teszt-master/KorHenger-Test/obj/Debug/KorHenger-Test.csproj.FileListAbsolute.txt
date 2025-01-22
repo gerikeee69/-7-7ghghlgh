@@ -1,0 +1,11 @@
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorHenger-Test\bin\Debug\KorHenger-Test.dll
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorHenger-Test\bin\Debug\KorHenger-Test.pdb
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorHenger-Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorHenger-Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorHenger-Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorHenger-Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorHenger-Test\obj\Debug\KorHenger-Test.csproj.AssemblyReference.cache
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorHenger-Test\obj\Debug\KorHenger-Test.csproj.CoreCompileInputs.cache
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorHenger-Test\obj\Debug\KorHenge.1101F8E5.Up2Date
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorHenger-Test\obj\Debug\KorHenger-Test.dll
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorHenger-Test\obj\Debug\KorHenger-Test.pdb
