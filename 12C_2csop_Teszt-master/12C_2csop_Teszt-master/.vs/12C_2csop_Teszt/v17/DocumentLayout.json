@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{952C40BA-89A8-454B-B0F0-13A35A97C404}|atvalt\\atvalt.csproj|c:\\users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12c_2csop_teszt-master\\12c_2csop_teszt-master\\atvalt\\atvalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C40BA-89A8-454B-B0F0-13A35A97C404}|atvalt\\atvalt.csproj|solutionrelative:atvalt\\atvalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C40BA-89A8-454B-B0F0-13A35A97C404}|atvalt\\atvalt.csproj|c:\\users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12c_2csop_teszt-master\\12c_2csop_teszt-master\\atvalt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C40BA-89A8-454B-B0F0-13A35A97C404}|atvalt\\atvalt.csproj|solutionrelative:atvalt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D22CD96F-E970-4B36-8978-B1D876883912}|KorHenger_UnitTest\\KorHenger_UnitTest.csproj|c:\\users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12c_2csop_teszt-master\\12c_2csop_teszt-master\\korhenger_unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D22CD96F-E970-4B36-8978-B1D876883912}|KorHenger_UnitTest\\KorHenger_UnitTest.csproj|solutionrelative:korhenger_unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "atvalt.cs",
+              "DocumentMoniker": "C:\\Users\\2021146\\Source\\Repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\atvalt\\atvalt.cs",
+              "RelativeDocumentMoniker": "atvalt\\atvalt.cs",
+              "ToolTip": "C:\\Users\\2021146\\Source\\Repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\atvalt\\atvalt.cs",
+              "RelativeToolTip": "atvalt\\atvalt.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:16:55.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\atvalt\\Program.cs",
+              "RelativeDocumentMoniker": "atvalt\\Program.cs",
+              "ToolTip": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\atvalt\\Program.cs",
+              "RelativeToolTip": "atvalt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:41:00.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger_UnitTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "KorHenger_UnitTest\\UnitTest1.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Kor.cs",
               "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger\\Kor.cs",
               "RelativeDocumentMoniker": "KorHenger\\Kor.cs",
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger\\Program.cs",
               "RelativeDocumentMoniker": "KorHenger\\Program.cs",
