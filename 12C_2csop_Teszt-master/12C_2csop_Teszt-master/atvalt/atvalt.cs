@@ -5,22 +5,21 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace atvalt
+namespace atvaltOOP
 {
-    internal class atvalt
+    public class Atvalt
     {
         string eredmeny=string.Empty; //az eredmenyt ebbe kepezzuk  
         int decSzam = 0; //az atalakitando decimalis szam valtozoja
 
-        public atvalt() { }
+        public Atvalt() { }
 
-        public atvalt(string szam)
+        public Atvalt(string szam)
         {
-                //ellenorizze az inputot
-                if(isBinaris(szam)) binarisToDecimalis(szam); //ha binaris,atalakitom decimalissa egyebkent
-                else if(isBinaris(szam))decimalisToBinaris
-                    (szam);//ha decimalis akkor atalakitom binarissaa egyebkent
-                else throw new FormatException("a megadott adat nem szam") //hibas az adat
+            //ellenorizze az inputot
+            if (isBinaris(szam)) binarisToDecimalis(szam); //ha binaris,atalakitom decimalissa egyebkent
+            else if (isBinaris(szam)) decimalToBinaris(szam);//ha decimalis akkor atalakitom binarissaa egyebkent
+            else throw new FormatException("a megadott adat nem szam");  //hibas az adat
         }
 
         private void decimalToBinaris(string szam)
@@ -33,7 +32,7 @@ namespace atvalt
             }
         }
 
-        private bool isDecimal(string szam)
+        public bool isDecimal(string szam)
         {
             //decimalist ugy vizsgaljuk hogy konvertalhato e
             bool eredm = true;
@@ -55,7 +54,7 @@ namespace atvalt
             for(int i = szam.Length - 1; i > 0; i--)
             {
                 decSzam += Convert.ToInt32(szam[i]) * j;
-                j* = 2;
+                j *= 2;
             }
         }
 

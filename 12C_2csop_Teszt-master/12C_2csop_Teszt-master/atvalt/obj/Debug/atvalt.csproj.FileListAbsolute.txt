@@ -1,0 +1,7 @@
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\atvalt\bin\Debug\atvalt.exe.config
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\atvalt\bin\Debug\atvalt.exe
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\atvalt\bin\Debug\atvalt.pdb
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\atvalt\obj\Debug\atvalt.csproj.AssemblyReference.cache
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\atvalt\obj\Debug\atvalt.csproj.CoreCompileInputs.cache
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\atvalt\obj\Debug\atvalt.exe
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\atvalt\obj\Debug\atvalt.pdb

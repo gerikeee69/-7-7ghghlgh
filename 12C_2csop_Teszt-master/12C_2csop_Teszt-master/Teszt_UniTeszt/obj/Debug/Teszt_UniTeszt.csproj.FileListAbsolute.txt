@@ -9,6 +9,9 @@ C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_
 C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\Teszt_UniTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\Teszt_UniTeszt\obj\Debug\Teszt_UniTeszt.csproj.AssemblyReference.cache
 C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\Teszt_UniTeszt\obj\Debug\Teszt_UniTeszt.csproj.CoreCompileInputs.cache
-C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\Teszt_UniTeszt\obj\Debug\Teszt_Un.A728B62C.Up2Date
 C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\Teszt_UniTeszt\obj\Debug\Teszt_UniTeszt.dll
 C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\Teszt_UniTeszt\obj\Debug\Teszt_UniTeszt.pdb
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\Teszt_UniTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\Teszt_UniTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\Teszt_UniTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\Teszt_UniTeszt\obj\Debug\Teszt_UniTeszt.csproj.CopyComplete
