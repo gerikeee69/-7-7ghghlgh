@@ -3,24 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{952C40BA-89A8-454B-B0F0-13A35A97C404}|atvalt\\atvalt.csproj|c:\\users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12c_2csop_teszt-master\\12c_2csop_teszt-master\\atvalt\\atvalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF39F46B-E0DB-4C0F-A32D-E079F09830C4}|KorTDDteszt\\KorTDDteszt.csproj|c:\\users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12c_2csop_teszt-master\\12c_2csop_teszt-master\\kortddteszt\\korclass_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39F46B-E0DB-4C0F-A32D-E079F09830C4}|KorTDDteszt\\KorTDDteszt.csproj|solutionrelative:kortddteszt\\korclass_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE6DE7-B567-4866-BC1A-39006A73F646}|KorTDD\\KorTDD.csproj|c:\\users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12c_2csop_teszt-master\\12c_2csop_teszt-master\\kortdd\\korclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE6DE7-B567-4866-BC1A-39006A73F646}|KorTDD\\KorTDD.csproj|solutionrelative:kortdd\\korclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE6DE7-B567-4866-BC1A-39006A73F646}|KorTDD\\KorTDD.csproj|c:\\users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12c_2csop_teszt-master\\12c_2csop_teszt-master\\kortdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE6DE7-B567-4866-BC1A-39006A73F646}|KorTDD\\KorTDD.csproj|solutionrelative:kortdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2021146\\Downloads\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\Atvalt_UnitTest\\Atvalt_ClassUnitTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C40BA-89A8-454B-B0F0-13A35A97C404}|atvalt\\atvalt.csproj|C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\atvalt\\atvalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{952C40BA-89A8-454B-B0F0-13A35A97C404}|atvalt\\atvalt.csproj|solutionrelative:atvalt\\atvalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{952C40BA-89A8-454B-B0F0-13A35A97C404}|atvalt\\atvalt.csproj|c:\\users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12c_2csop_teszt-master\\12c_2csop_teszt-master\\atvalt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952C40BA-89A8-454B-B0F0-13A35A97C404}|atvalt\\atvalt.csproj|solutionrelative:atvalt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D22CD96F-E970-4B36-8978-B1D876883912}|KorHenger_UnitTest\\KorHenger_UnitTest.csproj|c:\\users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12c_2csop_teszt-master\\12c_2csop_teszt-master\\korhenger_unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22CD96F-E970-4B36-8978-B1D876883912}|KorHenger_UnitTest\\KorHenger_UnitTest.csproj|solutionrelative:korhenger_unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06AC0B2E-2A40-4865-A921-C468DB50CCC2}|KorHenger\\KorHenger.csproj|C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\korhenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06AC0B2E-2A40-4865-A921-C468DB50CCC2}|KorHenger\\KorHenger.csproj|solutionrelative:korhenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06AC0B2E-2A40-4865-A921-C468DB50CCC2}|KorHenger\\KorHenger.csproj|C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\korhenger\\kor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06AC0B2E-2A40-4865-A921-C468DB50CCC2}|KorHenger\\KorHenger.csproj|solutionrelative:korhenger\\kor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,65 +34,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "atvalt.cs",
-              "DocumentMoniker": "C:\\Users\\2021146\\Source\\Repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\atvalt\\atvalt.cs",
-              "RelativeDocumentMoniker": "atvalt\\atvalt.cs",
-              "ToolTip": "C:\\Users\\2021146\\Source\\Repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\atvalt\\atvalt.cs",
-              "RelativeToolTip": "atvalt\\atvalt.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEUAAAAeAAAAAAAAAA==",
+              "Title": "KorClass_Test.cs",
+              "DocumentMoniker": "C:\\Users\\2021146\\Source\\Repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorTDDteszt\\KorClass_Test.cs",
+              "RelativeDocumentMoniker": "KorTDDteszt\\KorClass_Test.cs",
+              "ToolTip": "C:\\Users\\2021146\\Source\\Repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorTDDteszt\\KorClass_Test.cs",
+              "RelativeToolTip": "KorTDDteszt\\KorClass_Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T10:16:55.646Z",
+              "WhenOpened": "2025-02-19T10:32:23.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\atvalt\\Program.cs",
-              "RelativeDocumentMoniker": "atvalt\\Program.cs",
-              "ToolTip": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\atvalt\\Program.cs",
-              "RelativeToolTip": "atvalt\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "KorClass.cs",
+              "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorTDD\\KorClass.cs",
+              "RelativeDocumentMoniker": "KorTDD\\KorClass.cs",
+              "ToolTip": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorTDD\\KorClass.cs",
+              "RelativeToolTip": "KorTDD\\KorClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T09:41:00.509Z",
+              "WhenOpened": "2025-02-19T10:29:59.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger_UnitTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "KorHenger_UnitTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger_UnitTest\\UnitTest1.cs",
-              "RelativeToolTip": "KorHenger_UnitTest\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorTDD\\Program.cs",
+              "RelativeDocumentMoniker": "KorTDD\\Program.cs",
+              "ToolTip": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorTDD\\Program.cs",
+              "RelativeToolTip": "KorTDD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T10:47:31.461Z",
+              "WhenOpened": "2025-02-19T10:27:07.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Atvalt_ClassUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\2021146\\Downloads\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\Atvalt_UnitTest\\Atvalt_ClassUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\Atvalt_UnitTest\\Atvalt_ClassUnitTest.cs",
+              "ToolTip": "C:\\Users\\2021146\\Downloads\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\Atvalt_UnitTest\\Atvalt_ClassUnitTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\Atvalt_UnitTest\\Atvalt_ClassUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:46:23.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Kor.cs",
-              "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger\\Kor.cs",
-              "RelativeDocumentMoniker": "KorHenger\\Kor.cs",
-              "ToolTip": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger\\Kor.cs",
-              "RelativeToolTip": "KorHenger\\Kor.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Title": "atvalt.cs",
+              "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\atvalt\\atvalt.cs",
+              "RelativeDocumentMoniker": "atvalt\\atvalt.cs",
+              "ToolTip": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\atvalt\\atvalt.cs",
+              "RelativeToolTip": "atvalt\\atvalt.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T09:27:40.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger\\Program.cs",
-              "RelativeDocumentMoniker": "KorHenger\\Program.cs",
-              "ToolTip": "C:\\Users\\2021146\\source\\repos\\gerikeee69\\-7-7ghghlgh\\12C_2csop_Teszt-master\\12C_2csop_Teszt-master\\KorHenger\\Program.cs",
-              "RelativeToolTip": "KorHenger\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T09:27:37.902Z"
+              "WhenOpened": "2025-02-05T09:45:44.837Z"
             }
           ]
         }
