@@ -1,0 +1,7 @@
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorTDD\bin\Debug\KorTDD.exe.config
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorTDD\bin\Debug\KorTDD.exe
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorTDD\bin\Debug\KorTDD.pdb
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorTDD\obj\Debug\KorTDD.csproj.AssemblyReference.cache
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorTDD\obj\Debug\KorTDD.csproj.CoreCompileInputs.cache
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorTDD\obj\Debug\KorTDD.exe
+C:\Users\2021146\Source\Repos\gerikeee69\-7-7ghghlgh\12C_2csop_Teszt-master\12C_2csop_Teszt-master\KorTDD\obj\Debug\KorTDD.pdb
