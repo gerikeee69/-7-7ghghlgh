@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorTDD", "KorTDD\KorTDD.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorTDDteszt", "KorTDDteszt\KorTDDteszt.csproj", "{FF39F46B-E0DB-4C0F-A32D-E079F09830C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PontHatOOP", "PontHatOOP\PontHatOOP.csproj", "{84EEE533-F01F-484D-9DC2-A07FC0F42725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PontHatOOP_Test", "PontHatOOP_Test\PontHatOOP_Test.csproj", "{B58EAA29-3461-4E9A-B354-12251B90BCD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{FF39F46B-E0DB-4C0F-A32D-E079F09830C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF39F46B-E0DB-4C0F-A32D-E079F09830C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF39F46B-E0DB-4C0F-A32D-E079F09830C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84EEE533-F01F-484D-9DC2-A07FC0F42725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EEE533-F01F-484D-9DC2-A07FC0F42725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EEE533-F01F-484D-9DC2-A07FC0F42725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EEE533-F01F-484D-9DC2-A07FC0F42725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58EAA29-3461-4E9A-B354-12251B90BCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58EAA29-3461-4E9A-B354-12251B90BCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58EAA29-3461-4E9A-B354-12251B90BCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58EAA29-3461-4E9A-B354-12251B90BCD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
