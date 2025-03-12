@@ -10,22 +10,37 @@ namespace KorTDD
 
     {
 
-        //osztalyvaltozok
-        private double sugar = 0.0, kerulet=0.0, terulet=0.0;
-        
-        //konstruktor
-        public KorClass(double r) 
+        // Osztályváltozók
+        private double sugar = 0.0,
+            kerulet = 0.0,
+            terulet = 0.0;
+        // Konstruktor
+
+        public KorClass(double r)
         {
             this.sugar = r;
         }
 
-        //kerulet szamitas
-        //terulet szamitas
-        public double setKerulet(double r) { //return this.kerulet = 2 * r * Math.PI;
-                                             return 0.0;}
-        public double setTerulet(double r) { //return this.terulet = r * r * Math.PI;
-                                             return 0.0;}
-        public double getSugar() {  return sugar; }
+        public void setSugar(double r) { this.sugar = r; }
 
-    }
+        // Kerület számítás
+        public double setKerulet(double r)
+        {
+            if (r <= 0.0)
+            {
+                throw new ArgumentException();
+            }
+            return 2 * this.sugar * Math.Round(Math.PI, 2);
+        }
+
+        // Terület számítás
+        public double setTerulet(double r)
+        {
+            return this.sugar * this.sugar * Math.Round(Math.PI, 2);
+        }
+        public double getSugar()
+        {
+            return sugar;
+
+        }
 }
